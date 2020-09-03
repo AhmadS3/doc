@@ -1,0 +1,12 @@
+Module-3 	
+
+List all the Employees
+ 	Add new Employee
+ 	Modify Existing Employee
+ 	Delete Existing Employee
+ 	Employee Search
+
+Please refer below link:
+1). https://medium.com/@vsvaibhav2016/create-crud-application-in-express-js-9b88a5a94299
+2). https://zellwk.com/blog/crud-express-mongodb/
+3). https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/
